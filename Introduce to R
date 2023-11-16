@@ -1,0 +1,56 @@
+#Calculate
+-----------------------------------------------------------------
+
+# An addition
+5 + 5 
+
+# A subtraction
+5 - 5 
+
+# A multiplication
+3 * 5
+
+ # A division
+(5 + 5) / 2 
+
+# Exponentiation
+2^5
+
+# Modulo
+28 %% 6 
+------------------------------------------------------------------
+
+# Assign a value to the variables my_apples and my_oranges
+my_apples <- 5
+my_oranges <- 6
+a <- my_apples
+o <- my_oranges
+
+# Add these two variables together
+my_fruit <- a + o
+# Create the variable my_fruit
+add <- my_fruit
+add
+
+# Change my_numeric to be 42
+my_numeric <- 42
+
+# Change my_character to be "universe"
+my_character <- "universe"
+
+# Change my_logical to be FALSE
+my_logical <- FALSE
+
+my_numeric
+my_character
+my_logical
+
+# Check class of my_numeric
+class(my_numeric)
+
+# Check class of my_character
+class(my_character)
+
+# Check class of my_logical
+class(my_logical)
+================================================================================
